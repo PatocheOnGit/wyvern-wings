@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.0-beta29.1
+Wyvern's first published daemon release. The Go source is upstream
+[`pelican-dev/wings` v1.0.0-beta29](https://github.com/pelican-dev/wings/releases/tag/v1.0.0-beta29),
+unmodified — this release exists so Wyvern installs depend only on Wyvern's own repositories.
+See that release for the upstream changes it carries.
+
+Entries below this line are upstream's, and stop at the Pterodactyl era; upstream keeps its
+changelog in its GitHub releases.
+
 ## v1.11.11
 ### Fixed
 * Backups missing content when a `.pelicanignore` file is used
